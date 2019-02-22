@@ -11,7 +11,9 @@ namespace DemoDevOps2012
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //Generate Build Error: Syntax Error Generate
+            int a = 0;
+            int b=0
         }
     }
 }
