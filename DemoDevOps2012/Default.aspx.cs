@@ -13,7 +13,7 @@ namespace DemoDevOps2012
         {
             //Generate Build Error: Syntax Error Generate
             int a = 0;
-            int b=0
+            int b = 0;
         }
     }
 }
